@@ -1,3 +1,4 @@
+// declare an array with 10 numbers and find out palindrome numbers in the array.
 var number = [14541, 121, 267, 1221, 123, 456, 444, 545345, 999, 4327];
 for (let i = 0; i < number.length; i++) {
   var temp = number[i];
