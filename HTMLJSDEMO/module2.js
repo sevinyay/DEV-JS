@@ -19,4 +19,4 @@ export let evenOrOdd = (num) => {
   }
   return "not a number";
 }
-};
+}
