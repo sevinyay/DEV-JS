@@ -1,0 +1,13 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "jsontest",
+  "main": "main.js",
+  "scripts": {
+    "start":"node main.js",
+    "test": "hello"
+  },
+  "author": "sevin",
+  "license": "ISC",
+  "type": "module"
+}

@@ -1,1 +1,0 @@
-// funciton is a set of ins. to be executed.
