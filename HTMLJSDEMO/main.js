@@ -1,5 +1,12 @@
 import { hello } from "./module1.js";
-hello("sevin");
+import { sub, add } from "./module2.js";
+hello("Sevin Demirbas yay");
+let result = add(10, 20);
+console.log(result);
+let subResult = sub(100, 10);
+console.log(subResult);
+let resultEvenOrOdd = evenOrOdd("10");
+console.log(resultEvenOrOdd);
 
 //import { num, hello } from "./module1.js";
 
